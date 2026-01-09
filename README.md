@@ -10,3 +10,4 @@ This repository contains all assignments and projects that I worked on while att
 - CSD-325: Advanced Python
 - CSD-340: Web Development with HTML and CSS
 - CSD-402: Java for Programmers
+- CSD-420: Advanced Java Programming
